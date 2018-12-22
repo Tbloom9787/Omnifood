@@ -1,2 +1,2 @@
 # Omnifood
-initial commit
+HTML5 & CSS3 Course
